@@ -1,0 +1,325 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 58.92 34.37" style="enable-background:new 0 0 58.92 34.37;" xml:space="preserve">
+<rect y="0" style="fill:#3C9242;" width="58.92" height="34.37"/>
+<polygon style="fill:#EDC226;" points="9.08,17.18 29.46,30.2 49.84,17.18 29.46,4.17 "/>
+<path style="fill:#2D146E;" d="M38.06,17.18c0,4.74-3.85,8.59-8.59,8.59c-4.74,0-8.59-3.85-8.59-8.59c0-4.74,3.85-8.59,8.59-8.59
+	C34.21,8.59,38.06,12.44,38.06,17.18"/>
+<path style="fill:#FFFFFF;" d="M24.55,13.5c-1,0-1.99,0.07-2.95,0.21c-0.18,0.42-0.34,0.86-0.46,1.31c1.11-0.19,2.25-0.29,3.41-0.29
+	c5.04,0,9.63,1.9,13.11,5.02c0.14-0.44,0.24-0.89,0.31-1.36C34.34,15.34,29.66,13.5,24.55,13.5"/>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#3C9242;" d="M22.13,14.67c0.2-0.02,0.34-0.22,0.32-0.45
+	c-0.03-0.22-0.21-0.39-0.42-0.36c-0.2,0.02-0.34,0.23-0.32,0.45C21.75,14.54,21.93,14.7,22.13,14.67 M22.12,14.52
+	c0.12-0.01,0.2-0.14,0.18-0.28c-0.02-0.14-0.13-0.24-0.25-0.23c-0.12,0.01-0.2,0.14-0.18,0.28C21.89,14.43,22,14.54,22.12,14.52"/>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#3C9242;" d="M22.8,14.6l0.15-0.01l-0.02-0.3l0.32-0.02
+	c0.14-0.01,0.25-0.13,0.24-0.28c-0.01-0.14-0.13-0.25-0.27-0.24l-0.47,0.03L22.8,14.6z M22.92,14.13l0.31-0.02
+	c0.06,0,0.1-0.05,0.1-0.11c-0.01-0.06-0.05-0.1-0.11-0.1l-0.32,0.02L22.92,14.13z"/>
+<path style="fill:#3C9242;" d="M23.49,14.55c-0.01-0.12-0.03-0.38-0.2-0.36l-0.22,0.02c0.26-0.02,0.27,0.24,0.28,0.35"/>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#3C9242;" d="M23.84,14.53l0.39-0.01c0.2,0,0.35-0.16,0.35-0.36l0-0.12
+	c0-0.19-0.16-0.35-0.36-0.35l-0.39,0.01L23.84,14.53z M23.99,14.38l0.22-0.01c0.12,0,0.22-0.1,0.22-0.22v-0.07
+	c0-0.12-0.1-0.22-0.23-0.22l-0.22,0L23.99,14.38z"/>
+<polygon style="fill:#3C9242;" points="24.88,14.52 25.61,14.55 25.62,14.4 25.02,14.38 25.03,14.17 25.5,14.18 25.5,14.04 
+	25.03,14.03 25.04,13.86 25.6,13.88 25.61,13.73 24.9,13.71 "/>
+<polygon style="fill:#3C9242;" points="25.91,14.57 26.06,14.58 26.1,14.02 26.22,14.59 26.35,14.61 26.56,14.06 26.51,14.62 
+	26.65,14.63 26.72,13.82 26.52,13.8 26.3,14.34 26.19,13.77 25.99,13.75 "/>
+<polygon style="fill:#3C9242;" points="27.61,14.76 28.22,14.86 28.24,14.73 27.77,14.65 27.8,14.46 28.18,14.53 28.21,14.39 
+	27.83,14.32 27.85,14.2 28.3,14.28 28.33,14.14 27.73,14.03 "/>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#3C9242;" d="M29.16,15.06l0.15,0.04l0.08-0.29l0.32,0.08
+	c0.14,0.04,0.28-0.05,0.32-0.18c0.03-0.14-0.05-0.28-0.19-0.31l-0.45-0.12L29.16,15.06z M29.43,14.66l0.31,0.08
+	c0.05,0.01,0.11-0.02,0.13-0.08s-0.02-0.11-0.08-0.13l-0.3-0.08L29.43,14.66z"/>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#3C9242;" d="M30.17,15.33l0.14,0.05l0.09-0.29l0.31,0.1
+	c0.13,0.04,0.28-0.03,0.32-0.17c0.04-0.14-0.03-0.28-0.17-0.32l-0.45-0.14L30.17,15.33z M30.45,14.94l0.3,0.1
+	c0.05,0.02,0.11-0.01,0.13-0.07c0.02-0.06-0.01-0.11-0.07-0.13l-0.3-0.09L30.45,14.94z"/>
+<path style="fill:#3C9242;" d="M30.83,15.54c0.04-0.11,0.11-0.35-0.05-0.41l-0.21-0.07c0.25,0.08,0.17,0.32,0.13,0.43"/>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#3C9242;" d="M31.5,15.78c0.19,0.07,0.41-0.04,0.49-0.25
+	c0.08-0.21-0.01-0.44-0.2-0.51c-0.19-0.07-0.41,0.04-0.49,0.25C31.22,15.48,31.31,15.71,31.5,15.78 M31.56,15.64
+	c0.11,0.04,0.24-0.03,0.29-0.16c0.05-0.13,0-0.27-0.11-0.32c-0.11-0.04-0.24,0.03-0.29,0.17C31.39,15.46,31.44,15.6,31.56,15.64"/>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#3C9242;" d="M32.47,16.17c0.19,0.08,0.41-0.02,0.5-0.23
+	c0.09-0.21,0.01-0.44-0.17-0.52c-0.19-0.08-0.41,0.02-0.5,0.23C32.2,15.86,32.28,16.09,32.47,16.17 M32.53,16.03
+	c0.11,0.05,0.24-0.02,0.3-0.15c0.06-0.13,0.01-0.28-0.1-0.32c-0.11-0.05-0.24,0.02-0.3,0.15C32.37,15.84,32.42,15.98,32.53,16.03"/>
+<rect x="32.65" y="15.88" transform="matrix(-0.9176 -0.3976 0.3976 -0.9176 56.5639 43.5943)" style="fill:#3C9242;" width="0.31" height="0.12"/>
+<rect x="32.77" y="15.9" transform="matrix(-0.9186 -0.3951 0.3951 -0.9186 56.6267 43.8753)" style="fill:#3C9242;" width="0.12" height="0.41"/>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#3C9242;" d="M33.08,16.45l0.14,0.07l0.14-0.27l0.29,0.14
+	c0.13,0.07,0.28,0.01,0.35-0.11c0.06-0.13,0.01-0.28-0.12-0.35l-0.42-0.21L33.08,16.45z M33.42,16.11l0.28,0.14
+	c0.05,0.03,0.11,0.01,0.14-0.05c0.02-0.05,0.01-0.12-0.05-0.14l-0.28-0.14L33.42,16.11z"/>
+<path style="fill:#3C9242;" d="M33.7,16.76c0.05-0.1,0.17-0.33,0.01-0.41l-0.2-0.1c0.23,0.11,0.11,0.35,0.06,0.45"/>
+<polygon style="fill:#3C9242;" points="34,16.92 34.64,17.28 34.72,17.15 34.2,16.85 34.3,16.67 34.71,16.9 34.78,16.78 
+	34.37,16.55 34.45,16.41 34.94,16.68 35.02,16.55 34.41,16.2 "/>
+<path style="fill:#3C9242;" d="M35.2,17.32c-0.04,0.07,0,0.15,0.1,0.21c0.1,0.06,0.17,0.06,0.19,0.02c0.09-0.14-0.43-0.35-0.27-0.59
+	c0.14-0.21,0.37-0.05,0.46,0.01c0.09,0.06,0.23,0.2,0.12,0.37l-0.15-0.1c0.05-0.07,0-0.15-0.08-0.19c-0.07-0.05-0.14-0.07-0.18,0
+	c-0.08,0.11,0.43,0.33,0.28,0.57c-0.11,0.18-0.31,0.1-0.45,0.02c-0.11-0.07-0.28-0.24-0.17-0.41L35.2,17.32z"/>
+<path style="fill:#3C9242;" d="M36.08,17.9c-0.05,0.07-0.01,0.15,0.09,0.21s0.16,0.07,0.19,0.03c0.1-0.13-0.41-0.37-0.24-0.6
+	c0.15-0.2,0.38-0.03,0.46,0.03c0.08,0.06,0.22,0.21,0.1,0.38l-0.14-0.1c0.05-0.07,0-0.14-0.07-0.2c-0.07-0.05-0.13-0.08-0.18-0.01
+	c-0.08,0.11,0.41,0.35,0.24,0.59c-0.12,0.17-0.32,0.09-0.45-0.01c-0.11-0.08-0.27-0.26-0.15-0.42L36.08,17.9z"/>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#3C9242;" d="M36.91,18.84c0.16,0.13,0.4,0.09,0.54-0.09
+	c0.14-0.18,0.13-0.42-0.03-0.55c-0.16-0.13-0.4-0.09-0.54,0.09C36.73,18.47,36.75,18.71,36.91,18.84 M37,18.72
+	c0.09,0.07,0.24,0.05,0.33-0.07c0.09-0.11,0.09-0.26-0.01-0.34c-0.09-0.07-0.24-0.04-0.33,0.07C36.9,18.49,36.91,18.65,37,18.72"/>
+<polygon style="fill:#FFFFFF;" points="22.45,15.27 22.33,15.62 22.51,15.68 "/>
+<polygon style="fill:#FFFFFF;" points="22.45,15.27 22.56,15.62 22.39,15.68 "/>
+<polygon style="fill:#FFFFFF;" points="22.8,15.53 22.43,15.53 22.43,15.71 "/>
+<polygon style="fill:#FFFFFF;" points="22.8,15.53 22.5,15.74 22.39,15.6 "/>
+<polygon style="fill:#FFFFFF;" points="22.1,15.53 22.4,15.74 22.5,15.6 "/>
+<polygon style="fill:#FFFFFF;" points="22.1,15.53 22.47,15.53 22.47,15.71 "/>
+<polygon style="fill:#FFFFFF;" points="22.66,15.94 22.55,15.59 22.37,15.65 "/>
+<polygon style="fill:#FFFFFF;" points="22.66,15.94 22.37,15.72 22.47,15.57 "/>
+<polygon style="fill:#FFFFFF;" points="22.23,15.94 22.53,15.72 22.42,15.57 "/>
+<polygon style="fill:#FFFFFF;" points="22.23,15.94 22.34,15.59 22.52,15.65 "/>
+<polygon style="fill:#FFFFFF;" points="23.21,18.89 23.09,19.24 23.27,19.29 "/>
+<polygon style="fill:#FFFFFF;" points="23.21,18.89 23.32,19.24 23.15,19.29 "/>
+<polygon style="fill:#FFFFFF;" points="23.56,19.14 23.19,19.14 23.19,19.32 "/>
+<polygon style="fill:#FFFFFF;" points="23.56,19.14 23.26,19.36 23.15,19.21 "/>
+<polygon style="fill:#FFFFFF;" points="22.86,19.14 23.15,19.36 23.26,19.21 "/>
+<polygon style="fill:#FFFFFF;" points="22.86,19.14 23.23,19.14 23.23,19.32 "/>
+<polygon style="fill:#FFFFFF;" points="23.42,19.55 23.31,19.2 23.13,19.26 "/>
+<polygon style="fill:#FFFFFF;" points="23.42,19.55 23.13,19.34 23.23,19.19 "/>
+<polygon style="fill:#FFFFFF;" points="22.99,19.55 23.29,19.34 23.18,19.19 "/>
+<polygon style="fill:#FFFFFF;" points="22.99,19.55 23.11,19.2 23.28,19.26 "/>
+<polygon style="fill:#FFFFFF;" points="22.16,19.78 22.08,20.01 22.2,20.05 "/>
+<polygon style="fill:#FFFFFF;" points="22.16,19.78 22.23,20.01 22.11,20.05 "/>
+<polygon style="fill:#FFFFFF;" points="22.39,19.95 22.14,19.95 22.14,20.07 "/>
+<polygon style="fill:#FFFFFF;" points="22.39,19.95 22.19,20.09 22.12,19.99 "/>
+<polygon style="fill:#FFFFFF;" points="21.92,19.95 22.12,20.09 22.19,19.99 "/>
+<polygon style="fill:#FFFFFF;" points="21.92,19.95 22.17,19.95 22.17,20.07 "/>
+<polygon style="fill:#FFFFFF;" points="22.3,20.22 22.22,19.99 22.11,20.03 "/>
+<polygon style="fill:#FFFFFF;" points="22.3,20.22 22.1,20.08 22.17,19.98 "/>
+<polygon style="fill:#FFFFFF;" points="22.01,20.22 22.21,20.08 22.14,19.98 "/>
+<polygon style="fill:#FFFFFF;" points="22.01,20.22 22.09,19.99 22.2,20.03 "/>
+<polygon style="fill:#FFFFFF;" points="24.05,18.55 24,18.72 24.08,18.75 "/>
+<polygon style="fill:#FFFFFF;" points="24.05,18.55 24.1,18.72 24.02,18.75 "/>
+<polygon style="fill:#FFFFFF;" points="24.22,18.67 24.04,18.67 24.04,18.76 "/>
+<polygon style="fill:#FFFFFF;" points="24.22,18.67 24.07,18.78 24.02,18.71 "/>
+<polygon style="fill:#FFFFFF;" points="23.88,18.67 24.02,18.78 24.08,18.71 "/>
+<polygon style="fill:#FFFFFF;" points="23.88,18.67 24.06,18.67 24.06,18.76 "/>
+<polygon style="fill:#FFFFFF;" points="24.15,18.87 24.1,18.7 24.02,18.73 "/>
+<polygon style="fill:#FFFFFF;" points="24.15,18.87 24.01,18.77 24.06,18.7 "/>
+<polygon style="fill:#FFFFFF;" points="23.95,18.87 24.09,18.77 24.04,18.7 "/>
+<polygon style="fill:#FFFFFF;" points="23.95,18.87 24,18.7 24.08,18.73 "/>
+<polygon style="fill:#FFFFFF;" points="25,19.8 24.9,20.09 25.05,20.14 "/>
+<polygon style="fill:#FFFFFF;" points="25,19.8 25.09,20.09 24.94,20.14 "/>
+<polygon style="fill:#FFFFFF;" points="25.29,20.01 24.98,20.01 24.98,20.17 "/>
+<polygon style="fill:#FFFFFF;" points="25.29,20.01 25.04,20.19 24.95,20.07 "/>
+<polygon style="fill:#FFFFFF;" points="24.7,20.01 24.95,20.19 25.04,20.07 "/>
+<polygon style="fill:#FFFFFF;" points="24.7,20.01 25.01,20.01 25.01,20.17 "/>
+<polygon style="fill:#FFFFFF;" points="25.18,20.35 25.08,20.06 24.94,20.11 "/>
+<polygon style="fill:#FFFFFF;" points="25.18,20.35 24.93,20.17 25.02,20.05 "/>
+<polygon style="fill:#FFFFFF;" points="24.82,20.35 25.06,20.17 24.97,20.05 "/>
+<polygon style="fill:#FFFFFF;" points="24.82,20.35 24.91,20.06 25.06,20.11 "/>
+<polygon style="fill:#FFFFFF;" points="24.74,20.65 24.64,20.95 24.79,20.99 "/>
+<polygon style="fill:#FFFFFF;" points="24.74,20.65 24.83,20.95 24.69,20.99 "/>
+<polygon style="fill:#FFFFFF;" points="25.03,20.87 24.72,20.87 24.72,21.02 "/>
+<polygon style="fill:#FFFFFF;" points="25.03,20.87 24.78,21.05 24.69,20.92 "/>
+<polygon style="fill:#FFFFFF;" points="24.45,20.87 24.7,21.05 24.79,20.92 "/>
+<polygon style="fill:#FFFFFF;" points="24.45,20.87 24.75,20.87 24.75,21.02 "/>
+<polygon style="fill:#FFFFFF;" points="24.92,21.21 24.82,20.92 24.68,20.96 "/>
+<polygon style="fill:#FFFFFF;" points="24.92,21.21 24.67,21.03 24.76,20.9 "/>
+<polygon style="fill:#FFFFFF;" points="24.56,21.21 24.81,21.03 24.72,20.9 "/>
+<polygon style="fill:#FFFFFF;" points="24.56,21.21 24.65,20.92 24.8,20.96 "/>
+<polygon style="fill:#FFFFFF;" points="32.13,14.15 32.01,14.5 32.19,14.56 "/>
+<polygon style="fill:#FFFFFF;" points="32.13,14.15 32.24,14.5 32.07,14.56 "/>
+<polygon style="fill:#FFFFFF;" points="32.48,14.4 32.11,14.4 32.11,14.59 "/>
+<polygon style="fill:#FFFFFF;" points="32.48,14.4 32.18,14.62 32.07,14.47 "/>
+<polygon style="fill:#FFFFFF;" points="31.78,14.4 32.08,14.62 32.18,14.47 "/>
+<polygon style="fill:#FFFFFF;" points="31.78,14.4 32.15,14.4 32.15,14.59 "/>
+<polygon style="fill:#FFFFFF;" points="32.34,14.82 32.23,14.47 32.05,14.52 "/>
+<polygon style="fill:#FFFFFF;" points="32.34,14.82 32.05,14.6 32.15,14.45 "/>
+<polygon style="fill:#FFFFFF;" points="31.91,14.82 32.21,14.6 32.1,14.45 "/>
+<polygon style="fill:#FFFFFF;" points="31.91,14.82 32.02,14.47 32.2,14.52 "/>
+<polygon style="fill:#FFFFFF;" points="35.48,19.83 35.37,20.18 35.55,20.24 "/>
+<polygon style="fill:#FFFFFF;" points="35.48,19.83 35.6,20.18 35.42,20.24 "/>
+<polygon style="fill:#FFFFFF;" points="35.83,20.09 35.47,20.09 35.47,20.27 "/>
+<polygon style="fill:#FFFFFF;" points="35.83,20.09 35.53,20.3 35.43,20.15 "/>
+<polygon style="fill:#FFFFFF;" points="35.13,20.09 35.43,20.3 35.54,20.15 "/>
+<polygon style="fill:#FFFFFF;" points="35.13,20.09 35.5,20.09 35.5,20.27 "/>
+<polygon style="fill:#FFFFFF;" points="35.7,20.5 35.59,20.15 35.41,20.2 "/>
+<polygon style="fill:#FFFFFF;" points="35.7,20.5 35.4,20.28 35.51,20.13 "/>
+<polygon style="fill:#FFFFFF;" points="35.27,20.5 35.57,20.28 35.46,20.13 "/>
+<polygon style="fill:#FFFFFF;" points="35.27,20.5 35.38,20.15 35.56,20.2 "/>
+<polygon style="fill:#FFFFFF;" points="36.68,20.04 36.6,20.27 36.72,20.31 "/>
+<polygon style="fill:#FFFFFF;" points="36.68,20.04 36.75,20.27 36.63,20.31 "/>
+<polygon style="fill:#FFFFFF;" points="36.91,20.21 36.66,20.21 36.66,20.33 "/>
+<polygon style="fill:#FFFFFF;" points="36.91,20.21 36.71,20.35 36.64,20.25 "/>
+<polygon style="fill:#FFFFFF;" points="36.44,20.21 36.64,20.35 36.71,20.25 "/>
+<polygon style="fill:#FFFFFF;" points="36.44,20.21 36.69,20.21 36.69,20.33 "/>
+<polygon style="fill:#FFFFFF;" points="36.82,20.48 36.74,20.25 36.63,20.29 "/>
+<polygon style="fill:#FFFFFF;" points="36.82,20.48 36.62,20.34 36.69,20.24 "/>
+<polygon style="fill:#FFFFFF;" points="36.53,20.48 36.73,20.34 36.66,20.24 "/>
+<polygon style="fill:#FFFFFF;" points="36.53,20.48 36.61,20.25 36.72,20.29 "/>
+<polygon style="fill:#FFFFFF;" points="35.83,20.65 35.74,20.95 35.88,20.99 "/>
+<polygon style="fill:#FFFFFF;" points="35.83,20.65 35.93,20.95 35.78,20.99 "/>
+<polygon style="fill:#FFFFFF;" points="36.13,20.87 35.82,20.87 35.82,21.02 "/>
+<polygon style="fill:#FFFFFF;" points="36.13,20.87 35.88,21.05 35.79,20.92 "/>
+<polygon style="fill:#FFFFFF;" points="35.54,20.87 35.79,21.05 35.88,20.92 "/>
+<polygon style="fill:#FFFFFF;" points="35.54,20.87 35.85,20.87 35.85,21.02 "/>
+<polygon style="fill:#FFFFFF;" points="36.02,21.21 35.92,20.92 35.77,20.96 "/>
+<polygon style="fill:#FFFFFF;" points="36.02,21.21 35.77,21.03 35.86,20.9 "/>
+<polygon style="fill:#FFFFFF;" points="35.65,21.21 35.9,21.03 35.81,20.9 "/>
+<polygon style="fill:#FFFFFF;" points="35.65,21.21 35.75,20.92 35.89,20.96 "/>
+<polygon style="fill:#FFFFFF;" points="33.76,22.45 33.67,22.75 33.82,22.79 "/>
+<polygon style="fill:#FFFFFF;" points="33.76,22.45 33.86,22.75 33.71,22.79 "/>
+<polygon style="fill:#FFFFFF;" points="34.06,22.67 33.75,22.67 33.75,22.82 "/>
+<polygon style="fill:#FFFFFF;" points="34.06,22.67 33.81,22.85 33.72,22.72 "/>
+<polygon style="fill:#FFFFFF;" points="33.47,22.67 33.72,22.85 33.81,22.72 "/>
+<polygon style="fill:#FFFFFF;" points="33.47,22.67 33.78,22.67 33.78,22.82 "/>
+<polygon style="fill:#FFFFFF;" points="33.95,23.01 33.85,22.72 33.71,22.77 "/>
+<polygon style="fill:#FFFFFF;" points="33.95,23.01 33.7,22.83 33.79,22.71 "/>
+<polygon style="fill:#FFFFFF;" points="33.58,23.01 33.83,22.83 33.74,22.71 "/>
+<polygon style="fill:#FFFFFF;" points="33.58,23.01 33.68,22.72 33.82,22.77 "/>
+<polygon style="fill:#FFFFFF;" points="33.75,23.38 33.68,23.61 33.79,23.65 "/>
+<polygon style="fill:#FFFFFF;" points="33.75,23.38 33.83,23.61 33.71,23.65 "/>
+<polygon style="fill:#FFFFFF;" points="33.99,23.55 33.74,23.55 33.74,23.67 "/>
+<polygon style="fill:#FFFFFF;" points="33.99,23.55 33.79,23.7 33.72,23.6 "/>
+<polygon style="fill:#FFFFFF;" points="33.52,23.55 33.72,23.7 33.79,23.6 "/>
+<polygon style="fill:#FFFFFF;" points="33.52,23.55 33.76,23.55 33.76,23.67 "/>
+<polygon style="fill:#FFFFFF;" points="33.9,23.82 33.82,23.59 33.71,23.63 "/>
+<polygon style="fill:#FFFFFF;" points="33.9,23.82 33.7,23.68 33.77,23.58 "/>
+<polygon style="fill:#FFFFFF;" points="33.61,23.82 33.81,23.68 33.74,23.58 "/>
+<polygon style="fill:#FFFFFF;" points="33.61,23.82 33.68,23.59 33.8,23.63 "/>
+<polygon style="fill:#FFFFFF;" points="34.62,21.84 34.54,22.07 34.66,22.11 "/>
+<polygon style="fill:#FFFFFF;" points="34.62,21.84 34.69,22.07 34.58,22.11 "/>
+<polygon style="fill:#FFFFFF;" points="34.85,22.01 34.61,22.01 34.61,22.13 "/>
+<polygon style="fill:#FFFFFF;" points="34.85,22.01 34.65,22.15 34.58,22.05 "/>
+<polygon style="fill:#FFFFFF;" points="34.38,22.01 34.58,22.15 34.66,22.05 "/>
+<polygon style="fill:#FFFFFF;" points="34.38,22.01 34.63,22.01 34.63,22.13 "/>
+<polygon style="fill:#FFFFFF;" points="34.76,22.28 34.69,22.05 34.57,22.09 "/>
+<polygon style="fill:#FFFFFF;" points="34.76,22.28 34.56,22.14 34.64,22.04 "/>
+<polygon style="fill:#FFFFFF;" points="34.47,22.28 34.67,22.14 34.6,22.04 "/>
+<polygon style="fill:#FFFFFF;" points="34.47,22.28 34.55,22.05 34.67,22.09 "/>
+<polygon style="fill:#FFFFFF;" points="35.31,21.34 35.21,21.64 35.36,21.68 "/>
+<polygon style="fill:#FFFFFF;" points="35.31,21.34 35.4,21.64 35.26,21.68 "/>
+<polygon style="fill:#FFFFFF;" points="35.6,21.56 35.29,21.56 35.29,21.71 "/>
+<polygon style="fill:#FFFFFF;" points="35.6,21.56 35.35,21.74 35.26,21.61 "/>
+<polygon style="fill:#FFFFFF;" points="35.02,21.56 35.26,21.74 35.35,21.61 "/>
+<polygon style="fill:#FFFFFF;" points="35.02,21.56 35.32,21.56 35.32,21.71 "/>
+<polygon style="fill:#FFFFFF;" points="35.49,21.9 35.39,21.61 35.25,21.65 "/>
+<polygon style="fill:#FFFFFF;" points="35.49,21.9 35.24,21.72 35.33,21.59 "/>
+<polygon style="fill:#FFFFFF;" points="35.13,21.9 35.38,21.72 35.28,21.59 "/>
+<polygon style="fill:#FFFFFF;" points="35.13,21.9 35.22,21.61 35.37,21.65 "/>
+<polygon style="fill:#FFFFFF;" points="33.73,21.68 33.65,21.91 33.77,21.95 "/>
+<polygon style="fill:#FFFFFF;" points="33.73,21.68 33.8,21.91 33.69,21.95 "/>
+<polygon style="fill:#FFFFFF;" points="33.96,21.84 33.72,21.84 33.72,21.97 "/>
+<polygon style="fill:#FFFFFF;" points="33.96,21.84 33.76,21.99 33.69,21.89 "/>
+<polygon style="fill:#FFFFFF;" points="33.5,21.84 33.69,21.99 33.77,21.89 "/>
+<polygon style="fill:#FFFFFF;" points="33.5,21.84 33.74,21.84 33.74,21.97 "/>
+<polygon style="fill:#FFFFFF;" points="33.87,22.12 33.8,21.89 33.68,21.92 "/>
+<polygon style="fill:#FFFFFF;" points="33.87,22.12 33.67,21.97 33.75,21.88 "/>
+<polygon style="fill:#FFFFFF;" points="33.58,22.12 33.78,21.97 33.71,21.88 "/>
+<polygon style="fill:#FFFFFF;" points="33.58,22.12 33.66,21.89 33.78,21.92 "/>
+<polygon style="fill:#FFFFFF;" points="26.19,17.23 26.09,17.52 26.24,17.57 "/>
+<polygon style="fill:#FFFFFF;" points="26.19,17.23 26.28,17.52 26.14,17.57 "/>
+<polygon style="fill:#FFFFFF;" points="26.48,17.44 26.17,17.44 26.17,17.59 "/>
+<polygon style="fill:#FFFFFF;" points="26.48,17.44 26.23,17.62 26.14,17.5 "/>
+<polygon style="fill:#FFFFFF;" points="25.9,17.44 26.15,17.62 26.23,17.5 "/>
+<polygon style="fill:#FFFFFF;" points="25.9,17.44 26.2,17.44 26.2,17.59 "/>
+<polygon style="fill:#FFFFFF;" points="26.37,17.78 26.27,17.49 26.13,17.54 "/>
+<polygon style="fill:#FFFFFF;" points="26.37,17.78 26.12,17.6 26.21,17.48 "/>
+<polygon style="fill:#FFFFFF;" points="26.01,17.78 26.26,17.6 26.17,17.48 "/>
+<polygon style="fill:#FFFFFF;" points="26.01,17.78 26.1,17.49 26.25,17.54 "/>
+<polygon style="fill:#FFFFFF;" points="31.8,16.51 31.72,16.74 31.84,16.78 "/>
+<polygon style="fill:#FFFFFF;" points="31.8,16.51 31.88,16.74 31.76,16.78 "/>
+<polygon style="fill:#FFFFFF;" points="32.03,16.68 31.79,16.68 31.79,16.8 "/>
+<polygon style="fill:#FFFFFF;" points="32.03,16.68 31.84,16.82 31.76,16.72 "/>
+<polygon style="fill:#FFFFFF;" points="31.57,16.68 31.77,16.82 31.84,16.72 "/>
+<polygon style="fill:#FFFFFF;" points="31.57,16.68 31.81,16.68 31.81,16.8 "/>
+<polygon style="fill:#FFFFFF;" points="31.95,16.95 31.87,16.72 31.75,16.76 "/>
+<polygon style="fill:#FFFFFF;" points="31.95,16.95 31.75,16.81 31.82,16.71 "/>
+<polygon style="fill:#FFFFFF;" points="31.66,16.95 31.86,16.81 31.78,16.71 "/>
+<polygon style="fill:#FFFFFF;" points="31.66,16.95 31.73,16.72 31.85,16.76 "/>
+<polygon style="fill:#FFFFFF;" points="29.46,20.67 29.35,21.03 29.52,21.08 "/>
+<polygon style="fill:#FFFFFF;" points="29.46,20.67 29.58,21.03 29.4,21.08 "/>
+<polygon style="fill:#FFFFFF;" points="29.81,20.93 29.44,20.93 29.44,21.11 "/>
+<polygon style="fill:#FFFFFF;" points="29.81,20.93 29.52,21.15 29.41,20.99 "/>
+<polygon style="fill:#FFFFFF;" points="29.11,20.93 29.41,21.15 29.52,20.99 "/>
+<polygon style="fill:#FFFFFF;" points="29.11,20.93 29.48,20.93 29.48,21.11 "/>
+<polygon style="fill:#FFFFFF;" points="29.68,21.34 29.57,20.99 29.39,21.05 "/>
+<polygon style="fill:#FFFFFF;" points="29.68,21.34 29.38,21.12 29.49,20.98 "/>
+<polygon style="fill:#FFFFFF;" points="29.25,21.34 29.54,21.12 29.43,20.98 "/>
+<polygon style="fill:#FFFFFF;" points="29.25,21.34 29.36,20.99 29.53,21.05 "/>
+<polygon style="fill:#FFFFFF;" points="30.46,19.03 30.36,19.32 30.51,19.37 "/>
+<polygon style="fill:#FFFFFF;" points="30.46,19.03 30.55,19.32 30.4,19.37 "/>
+<polygon style="fill:#FFFFFF;" points="30.75,19.24 30.44,19.24 30.44,19.39 "/>
+<polygon style="fill:#FFFFFF;" points="30.75,19.24 30.5,19.42 30.41,19.3 "/>
+<polygon style="fill:#FFFFFF;" points="30.16,19.24 30.41,19.42 30.5,19.3 "/>
+<polygon style="fill:#FFFFFF;" points="30.16,19.24 30.47,19.24 30.47,19.39 "/>
+<polygon style="fill:#FFFFFF;" points="30.64,19.58 30.54,19.29 30.4,19.34 "/>
+<polygon style="fill:#FFFFFF;" points="30.64,19.58 30.39,19.4 30.48,19.28 "/>
+<polygon style="fill:#FFFFFF;" points="30.28,19.58 30.52,19.4 30.43,19.28 "/>
+<polygon style="fill:#FFFFFF;" points="30.28,19.58 30.37,19.29 30.52,19.34 "/>
+<polygon style="fill:#FFFFFF;" points="29.46,18.26 29.37,18.55 29.51,18.6 "/>
+<polygon style="fill:#FFFFFF;" points="29.46,18.26 29.56,18.55 29.41,18.6 "/>
+<polygon style="fill:#FFFFFF;" points="29.75,18.47 29.45,18.47 29.45,18.62 "/>
+<polygon style="fill:#FFFFFF;" points="29.75,18.47 29.51,18.65 29.42,18.53 "/>
+<polygon style="fill:#FFFFFF;" points="29.17,18.47 29.42,18.65 29.51,18.53 "/>
+<polygon style="fill:#FFFFFF;" points="29.17,18.47 29.48,18.47 29.48,18.62 "/>
+<polygon style="fill:#FFFFFF;" points="29.64,18.81 29.55,18.52 29.4,18.57 "/>
+<polygon style="fill:#FFFFFF;" points="29.64,18.81 29.39,18.63 29.48,18.51 "/>
+<polygon style="fill:#FFFFFF;" points="29.28,18.81 29.53,18.63 29.44,18.51 "/>
+<polygon style="fill:#FFFFFF;" points="29.28,18.81 29.38,18.52 29.52,18.57 "/>
+<polygon style="fill:#FFFFFF;" points="28.6,19.09 28.52,19.32 28.64,19.36 "/>
+<polygon style="fill:#FFFFFF;" points="28.6,19.09 28.67,19.32 28.56,19.36 "/>
+<polygon style="fill:#FFFFFF;" points="28.83,19.26 28.59,19.26 28.59,19.38 "/>
+<polygon style="fill:#FFFFFF;" points="28.83,19.26 28.63,19.41 28.56,19.31 "/>
+<polygon style="fill:#FFFFFF;" points="28.36,19.26 28.56,19.41 28.63,19.31 "/>
+<polygon style="fill:#FFFFFF;" points="28.36,19.26 28.61,19.26 28.61,19.38 "/>
+<polygon style="fill:#FFFFFF;" points="28.74,19.53 28.67,19.3 28.55,19.34 "/>
+<polygon style="fill:#FFFFFF;" points="28.74,19.53 28.54,19.39 28.62,19.29 "/>
+<polygon style="fill:#FFFFFF;" points="28.45,19.53 28.65,19.39 28.58,19.29 "/>
+<polygon style="fill:#FFFFFF;" points="28.45,19.53 28.53,19.3 28.64,19.34 "/>
+<polygon style="fill:#FFFFFF;" points="29.03,19.76 28.98,19.92 29.06,19.95 "/>
+<polygon style="fill:#FFFFFF;" points="29.03,19.76 29.09,19.92 29,19.95 "/>
+<polygon style="fill:#FFFFFF;" points="29.2,19.88 29.02,19.88 29.02,19.97 "/>
+<polygon style="fill:#FFFFFF;" points="29.2,19.88 29.05,19.98 29,19.91 "/>
+<polygon style="fill:#FFFFFF;" points="28.86,19.88 29.01,19.98 29.06,19.91 "/>
+<polygon style="fill:#FFFFFF;" points="28.86,19.88 29.04,19.88 29.04,19.97 "/>
+<polygon style="fill:#FFFFFF;" points="29.13,20.07 29.08,19.91 28.99,19.93 "/>
+<polygon style="fill:#FFFFFF;" points="29.13,20.07 28.99,19.97 29.04,19.9 "/>
+<polygon style="fill:#FFFFFF;" points="28.93,20.07 29.07,19.97 29.02,19.9 "/>
+<polygon style="fill:#FFFFFF;" points="28.93,20.07 28.98,19.91 29.06,19.93 "/>
+<polygon style="fill:#FFFFFF;" points="32.04,22.66 31.94,22.96 32.09,23 "/>
+<polygon style="fill:#FFFFFF;" points="32.04,22.66 32.13,22.96 31.98,23 "/>
+<polygon style="fill:#FFFFFF;" points="32.33,22.88 32.02,22.88 32.02,23.03 "/>
+<polygon style="fill:#FFFFFF;" points="32.33,22.88 32.08,23.06 31.99,22.93 "/>
+<polygon style="fill:#FFFFFF;" points="31.74,22.88 31.99,23.06 32.08,22.93 "/>
+<polygon style="fill:#FFFFFF;" points="31.74,22.88 32.05,22.88 32.05,23.03 "/>
+<polygon style="fill:#FFFFFF;" points="32.22,23.22 32.12,22.93 31.97,22.98 "/>
+<polygon style="fill:#FFFFFF;" points="32.22,23.22 31.97,23.04 32.06,22.92 "/>
+<polygon style="fill:#FFFFFF;" points="31.85,23.22 32.1,23.04 32.01,22.92 "/>
+<polygon style="fill:#FFFFFF;" points="31.85,23.22 31.95,22.93 32.09,22.98 "/>
+<polygon style="fill:#FFFFFF;" points="32.77,21.97 32.7,22.2 32.81,22.24 "/>
+<polygon style="fill:#FFFFFF;" points="32.77,21.97 32.85,22.2 32.73,22.24 "/>
+<polygon style="fill:#FFFFFF;" points="33,22.14 32.76,22.14 32.76,22.26 "/>
+<polygon style="fill:#FFFFFF;" points="33,22.14 32.81,22.28 32.73,22.18 "/>
+<polygon style="fill:#FFFFFF;" points="32.54,22.14 32.74,22.28 32.81,22.18 "/>
+<polygon style="fill:#FFFFFF;" points="32.54,22.14 32.78,22.14 32.78,22.26 "/>
+<polygon style="fill:#FFFFFF;" points="32.91,22.41 32.84,22.18 32.72,22.22 "/>
+<polygon style="fill:#FFFFFF;" points="32.91,22.41 32.72,22.27 32.79,22.17 "/>
+<polygon style="fill:#FFFFFF;" points="32.63,22.41 32.82,22.27 32.75,22.17 "/>
+<polygon style="fill:#FFFFFF;" points="32.63,22.41 32.7,22.18 32.82,22.22 "/>
+<polygon style="fill:#FFFFFF;" points="31.36,21.76 31.28,21.99 31.4,22.03 "/>
+<polygon style="fill:#FFFFFF;" points="31.36,21.76 31.43,21.99 31.32,22.03 "/>
+<polygon style="fill:#FFFFFF;" points="31.59,21.93 31.34,21.93 31.34,22.05 "/>
+<polygon style="fill:#FFFFFF;" points="31.59,21.93 31.39,22.07 31.32,21.97 "/>
+<polygon style="fill:#FFFFFF;" points="31.12,21.93 31.32,22.07 31.39,21.97 "/>
+<polygon style="fill:#FFFFFF;" points="31.12,21.93 31.37,21.93 31.37,22.05 "/>
+<polygon style="fill:#FFFFFF;" points="31.5,22.2 31.43,21.97 31.31,22.01 "/>
+<polygon style="fill:#FFFFFF;" points="31.5,22.2 31.3,22.05 31.37,21.96 "/>
+<polygon style="fill:#FFFFFF;" points="31.21,22.2 31.41,22.05 31.34,21.96 "/>
+<polygon style="fill:#FFFFFF;" points="31.21,22.2 31.29,21.97 31.4,22.01 "/>
+<polygon style="fill:#FFFFFF;" points="26.01,21.38 25.9,21.73 26.07,21.78 "/>
+<polygon style="fill:#FFFFFF;" points="26.01,21.38 26.13,21.73 25.95,21.78 "/>
+<polygon style="fill:#FFFFFF;" points="26.36,21.63 26,21.63 26,21.82 "/>
+<polygon style="fill:#FFFFFF;" points="26.36,21.63 26.07,21.85 25.96,21.7 "/>
+<polygon style="fill:#FFFFFF;" points="25.66,21.63 25.96,21.85 26.07,21.7 "/>
+<polygon style="fill:#FFFFFF;" points="25.66,21.63 26.03,21.63 26.03,21.82 "/>
+<polygon style="fill:#FFFFFF;" points="26.23,22.04 26.12,21.69 25.94,21.75 "/>
+<polygon style="fill:#FFFFFF;" points="26.23,22.04 25.93,21.83 26.04,21.68 "/>
+<polygon style="fill:#FFFFFF;" points="25.8,22.04 26.09,21.83 25.99,21.68 "/>
+<polygon style="fill:#FFFFFF;" points="25.8,22.04 25.91,21.69 26.09,21.75 "/>
+<polygon style="fill:#FFFFFF;" points="29.46,23.78 29.42,23.9 29.48,23.92 "/>
+<polygon style="fill:#FFFFFF;" points="29.46,23.78 29.5,23.9 29.44,23.92 "/>
+<polygon style="fill:#FFFFFF;" points="29.58,23.87 29.46,23.87 29.46,23.93 "/>
+<polygon style="fill:#FFFFFF;" points="29.58,23.87 29.48,23.94 29.44,23.89 "/>
+<polygon style="fill:#FFFFFF;" points="29.35,23.87 29.45,23.94 29.48,23.89 "/>
+<polygon style="fill:#FFFFFF;" points="29.35,23.87 29.47,23.87 29.47,23.93 "/>
+<polygon style="fill:#FFFFFF;" points="29.53,24.01 29.5,23.89 29.44,23.91 "/>
+<polygon style="fill:#FFFFFF;" points="29.53,24.01 29.43,23.93 29.47,23.89 "/>
+<polygon style="fill:#FFFFFF;" points="29.39,24.01 29.49,23.93 29.45,23.89 "/>
+<polygon style="fill:#FFFFFF;" points="29.39,24.01 29.43,23.89 29.49,23.91 "/>
+</svg>
