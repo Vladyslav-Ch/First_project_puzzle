@@ -9,22 +9,41 @@
     </head>
     <body>
         <div id="controls">
-            <select id="gamesize">
-                <option value="66">6 x 6</option>
-                <option value="88">8 x 8</option>
-                <option value="1010">10 x 10</option>
-                <option value="1212">12 x 12</option>
-            </select>
-            <select id="gamecolor">
-                    <option value="red">Red</option>
-                    <option value="purple">Purple</option>
-                    <option value="green">Green</option>
-                    <option value="brown">Brown</option>
-            </select>
+            <div id="radiowrapper">
+                <div id="size">
+                    <label >Size 6 X 6
+                        <input type="radio" name="size" value="6x6" checked="checked"><br>
+                    </label>
+                    <label>Size 8 X 8
+                        <input type="radio" name="size" value="8x8"><br>
+                    </label>
+                    <label>Size 10 X 10
+                        <input type="radio" name="size" value="10x10"><br>
+                    </label>
+                    <label>Size 12 X 12
+                        <input type="radio" name="size" value="12x12"><br>
+                    </label>
+                </div>
+                <div id="theme">
+                    <label id="theme"> Theme red
+                        <input type="radio" name="color" value="red" checked="checked"><br>
+                    </label>
+                    <label> Theme purple
+                        <input type="radio" name="color" value="purple"><br>
+                    </label>
+                    <label> Theme green
+                        <input type="radio" name="color" value="green"><br>
+                    </label>
+                    <label> Theme brown
+                        <input type="radio" name="color" value="brown"><br>
+                    </label>
+                </div>
+            </div>
             <p id="timer"></p>
             <input type="button" id="startbutton" value="Start">
             <input type="button" id="pausebutton" class="disabled" value="Pause" disabled>
             <input type="button" id="stopbutton" class="disabled" value="Stop" disabled>
+            <p id="pausetext"></p>
             <p id="playerpoint"></p>
         </div>
         <div id="wrapper"></div>

@@ -35,15 +35,45 @@ timer.textContent = 90;
 // set start timer
 let startbutton = document.getElementById("startbutton"),
     pausetbutton = document.getElementById("pausebutton"),
-    stopbutton = document.getElementById("stopbutton");
-let pausestartbuttonFunc = () => {
-    setInterval(() => timer.textContent -= 1, 1000);
+    stopbutton = document.getElementById("stopbutton"),
+    pausePress = false,
+    pausetext = document.getElementById("pausetext"),
+    setInt = setInterval(() => timer.textContent -= 1, 1000),
+    clearInt = clearInterval(setInt);
+
+let startbuttonFunc = () => {    
     startbutton.disabled = true;
     pausebutton.disabled = false;
     stopbutton.disabled = false;
     startbutton.classList.add("disabled");
     pausebutton.classList.remove("disabled");
     stopbutton.classList.remove("disabled");
+    setInt;
+};
+let pausebuttonFunc = () => {
+    if(!pausePress) {
+        wrapper.style.opacity = 0;
+        pausePress = true;
+        pausetext.textContent = "PAUSE";
+        clearInt;
+    } else {
+        wrapper.style.opacity = 1;
+        pausePress = false;
+        pausetext.textContent = "";
+        setInt;
+    }
+};
+let stopbuttonFunc = () => {
+    //start new game
+    startbutton.disabled = false;
+    pausebutton.disabled = true;
+    stopbutton.disabled = true;
+    startbutton.classList.remove("disabled");
+    pausebutton.classList.add("disabled");
+    stopbutton.classList.add("disabled");
+    timer.textContent = 90;
 };
 
-startbutton.addEventListener("click", pausestartbuttonFunc);
+startbutton.addEventListener("click", startbuttonFunc);
+pausebutton.addEventListener("click", pausebuttonFunc);
+stopbutton.addEventListener("click", stopbuttonFunc);

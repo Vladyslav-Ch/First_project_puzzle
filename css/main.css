@@ -59,3 +59,15 @@ body {
     top: 50px;
     right: 50px;
 }
+
+#radiowrapper {
+    width: 175px;
+}
+
+#radiowrapper input {
+    float: right;
+}
+
+#radiowrapper #theme {
+    margin-top: 20px;
+}
