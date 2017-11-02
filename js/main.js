@@ -37,9 +37,18 @@ let startbutton = document.getElementById("startbutton"),
     pausetbutton = document.getElementById("pausebutton"),
     stopbutton = document.getElementById("stopbutton"),
     pausePress = false,
-    pausetext = document.getElementById("pausetext"),
-    setInt = setInterval(() => timer.textContent -= 1, 1000),
-    clearInt = clearInterval(setInt);
+    pausetext = document.getElementById("pausetext");
+
+var timerCount = {
+    startTimer: function () {
+        this.startTime = setInterval(function() {
+            return timer.textContent -= 1;
+        }, 1000);
+    },
+    stopTimer: function () {
+        clearInterval(this.startTime);
+    }
+};
 
 let startbuttonFunc = () => {    
     startbutton.disabled = true;
@@ -48,21 +57,23 @@ let startbuttonFunc = () => {
     startbutton.classList.add("disabled");
     pausebutton.classList.remove("disabled");
     stopbutton.classList.remove("disabled");
-    setInt;
+    timerCount.startTimer();
 };
+
 let pausebuttonFunc = () => {
     if(!pausePress) {
         wrapper.style.opacity = 0;
         pausePress = true;
         pausetext.textContent = "PAUSE";
-        clearInt;
+        timerCount.stopTimer();
     } else {
         wrapper.style.opacity = 1;
         pausePress = false;
         pausetext.textContent = "";
-        setInt;
+        timerCount.startTimer();
     }
 };
+
 let stopbuttonFunc = () => {
     //start new game
     startbutton.disabled = false;
@@ -71,6 +82,7 @@ let stopbuttonFunc = () => {
     startbutton.classList.remove("disabled");
     pausebutton.classList.add("disabled");
     stopbutton.classList.add("disabled");
+    timerCount.stopTimer();
     timer.textContent = 90;
 };
 
