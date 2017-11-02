@@ -1,6 +1,7 @@
 "use strict";
 let flags = ["ad", "ae", "af", "ag", "ai", "al", "am", "an", "ao", "aq", "ar", "as", "at", "au", "aw", "ax", "az", "ba", "bb", "bd", "be", "bf", "bg", "bh", "bi", "bj", "bm", "bn", "bo", "br", "bs", "bt", "bv", "bw", "by", "bz", "ca", "cc", "cf", "cg", "ch", "ci", "ck", "cl", "cm", "cn", "co", "cr", "cu", "cv", "cx", "cy", "cz", "de", "dj", "dk", "dm", "do", "ds", "dz", "ec", "ee", "eg", "eh", "er", "es", "et", "fi", "fj", "fk", "fm", "fo"];
-// set random flags to background
+
+// set random flags to blocks background
 let blocks = 36,
     wrapper = document.getElementById("wrapper"),
     arr = [];
@@ -26,3 +27,23 @@ arr.sort(function(a, b) {
 for(let i = 0; i < arr.length; i++) {
     wrapper.appendChild(arr[i]);
 }
+
+// set timer
+let timer = document.getElementById("timer");
+timer.textContent = 90;
+
+// set start timer
+let startbutton = document.getElementById("startbutton"),
+    pausetbutton = document.getElementById("pausebutton"),
+    stopbutton = document.getElementById("stopbutton");
+let pausestartbuttonFunc = () => {
+    setInterval(() => timer.textContent -= 1, 1000);
+    startbutton.disabled = true;
+    pausebutton.disabled = false;
+    stopbutton.disabled = false;
+    startbutton.classList.add("disabled");
+    pausebutton.classList.remove("disabled");
+    stopbutton.classList.remove("disabled");
+};
+
+startbutton.addEventListener("click", pausestartbuttonFunc);

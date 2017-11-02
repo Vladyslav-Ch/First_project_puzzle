@@ -34,6 +34,26 @@ body {
     left: 50px;
 }
 
+#timer {
+    margin-top: 75px;
+}
+
+#startbutton, #pausebutton, #stopbutton {
+    width: 100px;
+    height: 30px;
+    color: brown;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#startbutton:hover, #pausebutton:hover, #stopbutton:hover {
+    cursor: pointer;
+}
+
+.disabled {
+    opacity: .3;
+}
+
 #recordtable {
     position: absolute;
     top: 50px;
